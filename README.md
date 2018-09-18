@@ -4,7 +4,7 @@ platforms: Java
 api: Sql
 ---
 
-# Cosmos DB SQL Api Multi-Master Sample for Java
+# Multi-Master SQL API Sample for Java
 
 This sample demonstrates some multi-master scenarios over the Cosmos DB SQL API using Java.
 
